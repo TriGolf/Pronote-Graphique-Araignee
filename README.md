@@ -1,3 +1,7 @@
+> [!WARNING]
+> À cause de récents changements dans pronotepy et dans le fonctionnement de pronote ce programme ne marche plus tel quel.
+> Il faudrait refaire toute la partie de login et se connecter avec un qr code ce qui serait beacoup moins pratique.
+
 # Pronote Graphique-Araignée
 
 ## Installer les bibliothèques
